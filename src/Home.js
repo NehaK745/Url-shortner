@@ -12,7 +12,7 @@ function Home() {
             code: code
 
         })
-        alert("This is your URL - https://url-shortner-b9e51.firebaseapp.com/" + code);
+        alert("This is your URL - https://url-shortner-b9e51.firebaseapp.com/l/" + code);
     }
     return (
         <div className="container">
