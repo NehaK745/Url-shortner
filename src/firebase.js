@@ -6,8 +6,6 @@ import 'firebase/firestore';
 // Put your Configuration here:
 
 
-
-
 const firebaseConfig = {
     apiKey: "",
     authDomain: "",
