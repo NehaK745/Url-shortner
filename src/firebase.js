@@ -3,7 +3,7 @@ import 'firebase/auth';
 import 'firebase/database';
 import 'firebase/storage';
 import 'firebase/firestore';
-// Paste your Configuration here:
+// Paste Your Configuration Here:
 const firebaseConfig = {
     apiKey: "",
     authDomain: "",
