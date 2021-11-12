@@ -12,7 +12,7 @@ function Home() {
             code: code
 
         })
-        alert("This is your URL - http://localhost:3000/l/" + code);
+        alert("This is your URL - https://url-shortner-b9e51.firebaseapp.com/" + code);
     }
     return (
         <div className="container">
