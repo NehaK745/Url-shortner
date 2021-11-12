@@ -9,7 +9,8 @@ function Home() {
         e.preventDefault();
        await db.collection('urls').add({
             url: url,
-            code: code
+            code: code,
+
 
         })
         alert("This is your URL - https://url-shortner-b9e51.firebaseapp.com/l/" + code);
